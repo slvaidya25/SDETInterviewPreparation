@@ -1,3 +1,13 @@
 // Java Programs
 
 // Find subarray with sum = 15
+{1, 2, 3, 4, 5, 6, 7, 8, 9, 15}, sum = 15
+{1, 0, 3, 4, 5, 6, 7, 8, 9}
+
+// Count of Vowels, Tech Mahindra@123
+
+// SecondLargestNumber in an array
+
+// SwapNumbers
+
+//
